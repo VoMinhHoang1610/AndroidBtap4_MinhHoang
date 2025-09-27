@@ -1,3 +1,51 @@
 <resources>
-    <string name="app_name">AndroidBtap4_MinhHoang</string>
+    <string name="app_name">VoMinhHoang_2218</string>
+
+    Added comprehensive strings for login and registration
+    Welcome and Title Strings
+    <string name="welcome_message">Chào mừng bạn đến với ứng dụng</string>
+    <string name="login_title">Đăng Nhập</string>
+    <string name="register_title">Đăng Ký Tài Khoản</string>
+
+    Input Hints
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+    <string name="hint_full_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_date_of_birth">Chọn ngày sinh</string>
+
+    Button Labels
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="btn_back_to_login">Quay lại đăng nhập</string>
+    <string name="btn_select_date">Chọn ngày sinh</string>
+
+    Success Messages
+    <string name="login_success">Đăng nhập thành công!</string>
+    <string name="register_success">Đăng ký thành công!</string>
+
+    Error Messages
+    <string name="error_empty_username">Vui lòng nhập tên đăng nhập</string>
+    <string name="error_empty_password">Vui lòng nhập mật khẩu</string>
+    <string name="error_empty_full_name">Vui lòng nhập họ tên</string>
+    <string name="error_empty_email">Vui lòng nhập email</string>
+    <string name="error_invalid_email">Email không hợp lệ</string>
+    <string name="error_password_mismatch">Mật khẩu xác nhận không khớp</string>
+    <string name="error_short_username">Tên đăng nhập phải có ít nhất 3 ký tự</string>
+    <string name="error_short_password">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="error_select_date">Vui lòng chọn ngày sinh</string>
+
+    Loading Messages
+    <string name="loading_login">Đang đăng nhập...</string>
+    <string name="loading_register">Đang đăng ký...</string>
+
+    Added password visibility toggle string
+    <string name="toggle_password_visibility">Hiện/ẩn mật khẩu</string>
+
+    Other existing strings
+    <string name="profile_title">Thông Tin Cá Nhân</string>
+    <string name="dashboard_title">Trang Chính</string>
+    <string name="account_deleted_title">Tài Khoản Đã Xóa</string>
 </resources>
+
